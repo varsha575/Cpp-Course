@@ -14,7 +14,7 @@ int main()
 		while(k != i)
 		{
 			cout<<" ";
-			k++;
+			k--;
 		}
 		for(int j = i; j <= n; j++)
 		{
